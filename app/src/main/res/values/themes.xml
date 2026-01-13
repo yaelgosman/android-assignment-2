@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.studentsapp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Disable the default ActionBar -->
+        <item name="windowActionBar">false</item>
+        <!-- Enable support for a custom Toolbar -->
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
